@@ -4,3 +4,4 @@ numpy
 pandas
 pillow
 plotly>=5.18
+matplotlib
